@@ -1,0 +1,34 @@
+0x00	\u2395	# NUL     null character
+0x01	\u2308	# SOH     start of heading
+0x02	\u22A5	# STX     start of text
+0x03	\u230B	# ETX     end of text
+0x04	\u2301	# EOT     end of transmission
+0x05	\u2720	# ENQ     enquiry
+0x06	\u2713	# ACK     acknowledge
+0x07	\u237E	# BEL     bell
+0x08	\u293A	# BS      backspace
+0x09	\u2AAB	# HT      horizontal tab
+0x0A	\u2261	# LF      new line
+0x0B	\u2A5B	# VT      vertical tab
+0x0C	\u21A1	# FF      form feed
+0x0D	\u2AAA	# CR      carriage ret
+0x0E	\u2297	# SO      shift out
+0x0F	\u2299	# SI      shift in
+0x10	\u229F	# DLE     data link escape
+0x11	\u25F7	# DC1     device control 1
+0x12	\u25F6	# DC2     device control 2
+0x13	\u25F5	# DC3     device control 3
+0x14	\u25F4	# DC4     device control 4
+0x15	\u237B	# NAK     negative acknowledge
+0x16	\u238D	# SYN     synchronous idle
+0x17	\u22A3	# ETB     end of transmission blk
+0x18	\u29D6	# CAN     cancel
+0x19	\u237F	# EM      end of medium
+0x1A	\u2426	# SUB     substitute
+0x1B	\u2296	# ESC     escape
+0x1C	\u25F0	# FS      file separator
+0x1D	\u25F1	# GS      group separator
+0x1E	\u25F2	# RS      record separator
+0x1F	\u25F3	# US      unit separator
+0x20	\u25B3	# SP      space                              
+0x7F	\u25A8	# DEL     delete

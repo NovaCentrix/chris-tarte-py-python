@@ -1,0 +1,128 @@
+0x00	u+0000	NUL	NUL	null character
+0x01	u+0001	SOH	SOH	start of heading
+0x02	u+0002	STX	STX	start of text
+0x03	u+0003	ETX	ETX	end of text
+0x04	u+0004	EOT	EOT	end of transmission
+0x05	u+0005	ENQ	ENQ	enquiry
+0x06	u+0006	ACK	ACK	acknowledge
+0x07	u+0007	BEL	BEL	bell
+0x08	u+0008	BS	BS	backspace
+0x09	u+0009	HT	HT	horizontal tab
+0x0a	u+000a	LF	LF	new line
+0x0b	u+000b	VT	VT	vertical tab
+0x0c	u+000c	FF	FF	form feed
+0x0d	u+000d	CR	CR	carriage ret
+0x0e	u+000e	SO	SO	shift out
+0x0f	u+000f	SI	SI	shift in
+0x10	u+0010	DLE	DLE	data link escape
+0x11	u+0011	DC1	DC1	device control 1
+0x12	u+0012	DC2	DC2	device control 2
+0x13	u+0013	DC3	DC3	device control 3
+0x14	u+0014	DC4	DC4	device control 4
+0x15	u+0015	NAK	NAK	negative acknowledge
+0x16	u+0016	SYN	SYN	synchronous idle
+0x17	u+0017	ETB	ETB	end of transmission blk
+0x18	u+0018	CAN	CAN	cancel
+0x19	u+0019	EM 	EM 	end of medium
+0x1a	u+001a	SUB	SUB	substitute
+0x1b	u+001b	ESC	ESC	escape
+0x1c	u+001c	FS	FS	file separator
+0x1d	u+001d	GS	GS	group separator
+0x1e	u+001e	RS	RS	record separator
+0x1f	u+001f	US	US	unit separator
+0x20	u+0020	 	 	space                              
+0x21	u+0021	!	!	exclamation mark
+0x22	u+0022	"	"	quotation mark
+0x23	u+0023	#	#	number sign
+0x24	u+0024	$	$	dollar sign
+0x25	u+0025	%	%	percent sign
+0x26	u+0026	&	&	ampersand
+0x27	u+0027	\'	\'	apostrophe
+0x28	u+0028	(	(	left parenthesis
+0x29	u+0029	)	)	right parenthesis
+0x2a	u+002a	*	*	asterisk
+0x2b	u+002b	+	+	plus sign
+0x2c	u+002c	,	,	comma
+0x2d	u+002d	-	-	hyphen-minus
+0x2e	u+002e	.	.	full stop
+0x2f	u+002f	/	/	solidus
+0x30	u+0030	0	0	digit zero
+0x31	u+0031	1	1	digit one
+0x32	u+0032	2	2	digit two
+0x33	u+0033	3	3	digit three
+0x34	u+0034	4	4	digit four
+0x35	u+0035	5	5	digit five
+0x36	u+0036	6	6	digit six
+0x37	u+0037	7	7	digit seven
+0x38	u+0038	8	8	digit eight
+0x39	u+0039	9	9	digit nine
+0x3a	u+003a	:	:	colon
+0x3b	u+003b	;	;	semicolon
+0x3c	u+003c	<	<	less-than sign
+0x3d	u+003d	=	=	equals sign
+0x3e	u+003e	>	>	greater-than sign
+0x3f	u+003f	?	?	question mark
+0x40	u+0040	@	@	commercial at
+0x41	u+0041	A	A	latin capital letter A
+0x42	u+0042	B	B	latin capital letter B
+0x43	u+0043	C	C	latin capital letter C
+0x44	u+0044	D	D	latin capital letter D
+0x45	u+0045	E	E	latin capital letter E
+0x46	u+0046	F	F	latin capital letter F
+0x47	u+0047	G	G	latin capital letter G
+0x48	u+0048	H	H	latin capital letter H
+0x49	u+0049	I	I	latin capital letter I
+0x4a	u+004a	J	J	latin capital letter J
+0x4b	u+004b	K	K	latin capital letter K
+0x4c	u+004c	L	L	latin capital letter L
+0x4d	u+004d	M	M	latin capital letter M
+0x4e	u+004e	N	N	latin capital letter N
+0x4f	u+004f	O	O	latin capital letter O
+0x50	u+0050	P	P	latin capital letter P
+0x51	u+0051	Q	Q	latin capital letter Q
+0x52	u+0052	R	R	latin capital letter R
+0x53	u+0053	S	S	latin capital letter S
+0x54	u+0054	T	T	latin capital letter T
+0x55	u+0055	U	U	latin capital letter U
+0x56	u+0056	V	V	latin capital letter V
+0x57	u+0057	W	W	latin capital letter W
+0x58	u+0058	X	X	latin capital letter X
+0x59	u+0059	Y	Y	latin capital letter Y
+0x5a	u+005a	Z	Z	latin capital letter Z
+0x5b	u+005b	[	[	left square bracket
+0x5c	u+005c	\\	\\	reverse solidus
+0x5d	u+005d	]	]	right square bracket
+0x5e	u+005e	^	^	circumflex accent
+0x5f	u+005f	_	_	low line
+0x60	u+0060	`	`	grave accent
+0x61	u+0061	a	a	latin small letter a
+0x62	u+0062	b	b	latin small letter b
+0x63	u+0063	c	c	latin small letter c
+0x64	u+0064	d	d	latin small letter d
+0x65	u+0065	e	e	latin small letter e
+0x66	u+0066	f	f	latin small letter f
+0x67	u+0067	g	g	latin small letter g
+0x68	u+0068	h	h	latin small letter h
+0x69	u+0069	i	i	latin small letter i
+0x6a	u+006a	j	j	latin small letter j
+0x6b	u+006b	k	k	latin small letter k
+0x6c	u+006c	l	l	latin small letter l
+0x6d	u+006d	m	m	latin small letter m
+0x6e	u+006e	n	n	latin small letter n
+0x6f	u+006f	o	o	latin small letter o
+0x70	u+0070	p	p	latin small letter p
+0x71	u+0071	q	q	latin small letter q
+0x72	u+0072	r	r	latin small letter r
+0x73	u+0073	s	s	latin small letter s
+0x74	u+0074	t	t	latin small letter t
+0x75	u+0075	u	u	latin small letter u
+0x76	u+0076	v	v	latin small letter v
+0x77	u+0077	w	w	latin small letter w
+0x78	u+0078	x	x	latin small letter x
+0x79	u+0079	y	y	latin small letter y
+0x7a	u+007a	z	z	latin small letter z
+0x7b	u+007b	{	{	left curly bracket
+0x7c	u+007c	|	|	vertical line
+0x7d	u+007d	}	}	right curly bracket
+0x7e	u+007e	~	~	tilde
+0x7f	u+007f	DEL	DEL	delete

@@ -1,0 +1,6 @@
+0x09	\u2409	# Symbol for horizontal tabulation ␉
+0x0a	\u240A	# Symbol for line feed	Control Pictures ␊
+0x0b	\u240B	# Symbol for vertical tabulation ␋
+0x0c	\u240C	# Symbol for form feed ␌
+0x0d	\u240D	# Symbol for carriage return ␍
+0x20	\u2423	# open box style indication
